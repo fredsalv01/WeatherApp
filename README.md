@@ -1,3 +1,6 @@
+If you want to see a preview of the app you can visit: 
+https://fredsalv01.github.io/WeatherApp/
+
 # WeatherApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
