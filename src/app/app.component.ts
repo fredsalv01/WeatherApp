@@ -13,8 +13,8 @@ export class AppComponent implements OnInit {
   
   weatherData?: WeatherResponse;
   cityName: string = 'Lima';
-  image1: string = '../assets/morning.svg';
-  image2: string = '../assets/night.svg'
+  image1: string = 'assets/morning.svg';
+  image2: string = 'assets/night.svg'
   loader: boolean = true;
 
   ngOnInit(): void {
