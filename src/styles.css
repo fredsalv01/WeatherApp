@@ -97,6 +97,12 @@ main {
   font-weight: 700;
 }
 
+.real_feel {
+  color: var(--white);
+  font-size: .8em;
+  font-weight: 200;
+}
+
 .more-info-label {
   color: var(--white);
 }
@@ -162,7 +168,7 @@ main {
   background-color: var(--shadow-light);
 }
 
-/* loader */
+/* LOADER */
 body {
   background: #3c429e;
 }
